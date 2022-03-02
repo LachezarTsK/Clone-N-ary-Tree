@@ -5,7 +5,6 @@ using namespace std;
 
 // Struct Node is in-built in the solution file on leetcode.com. 
 // When running the code on the website, do not include this struct.
-
 class Node {
 public:
     int val;
